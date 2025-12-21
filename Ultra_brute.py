@@ -36,8 +36,9 @@ def logo():
 
 
                     NOTE! : I'M NOT RESPONSIBLE FOR ANY ILLEGAL USAGE.
-                    CODED BY : INDIAN ANONYMOUS 
-                    INSTA ID : indian_anonymous191838
+                    CODED BY : E3ROR404 
+                    INSTA ID : e3ror404_191838
+                    TELEGRAM ID : @E3ror404
     """
 
     for N, line in enumerate(x.split("\n")):
